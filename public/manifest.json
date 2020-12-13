@@ -1,28 +1,29 @@
 {
-  "short_name": "PPTLS",
-  "name": "Piedra, Papel, Tijera, Lagarto o Spock",
+  "name": "Spock Game",
+  "short_name": "Spock",
+  "theme_color": "#0f79cd",
+  "background_color": "#2196f3",
+  "display": "fullscreen",
   "orientation": "portrait",
   "Scope": "/",
   "start_url": "/",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "public/spock1.jpg",
+      "sizes": "72x72",
+      "type": "image/jpg"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "public/spock.jpg",
+      "sizes": "144x144",
+      "type": "image/jpg"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "puclic/spock2",
+      "sizes": "384x384",
+      "type": "image/jpg"
     }
+    
   ],
-  "splash_pages": null,
-  "display": "fullscreen",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "splash_pages": null
 }

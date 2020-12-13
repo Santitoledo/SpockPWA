@@ -1,4 +1,4 @@
-self.addEventListener("install", event =>{
+/*self.addEventListener("install", event =>{
     console.log("SW instalado");
   })
   
@@ -8,4 +8,4 @@ self.addEventListener("install", event =>{
   
   self.addEventListener('fetch', function (event) {
       console.log("fetch");
-  });
+  });*/
