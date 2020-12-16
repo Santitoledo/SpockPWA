@@ -9,17 +9,17 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "public/spock1.jpg",
+      "src": "spock1.jpg",
       "sizes": "72x72",
       "type": "image/jpg"
     },
     {
-      "src": "public/spock.jpg",
+      "src": "spock.jpg",
       "sizes": "144x144",
       "type": "image/jpg"
     },
     {
-      "src": "puclic/spock2.jpg",
+      "src": "spock2.jpg",
       "sizes": "384x384",
       "type": "image/jpg"
     }
